@@ -2,8 +2,6 @@
 
 A modern React application showcasing the [@bendarte/bensbib](https://www.npmjs.com/package/@bendarte/bensbib) component library. This demo implements a clean and interactive interface demonstrating various components and their features.
 
-## Screenshot
-![Bensbib Demo App Screenshot](screenshots/demo.png)
 
 ## Features
 
